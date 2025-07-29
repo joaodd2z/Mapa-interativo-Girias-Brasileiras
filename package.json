@@ -1,0 +1,24 @@
+{
+  "name": "mapa-girias-brasileiras",
+  "version": "1.0.0",
+  "description": "Mapa interativo das gírias de cada estado brasileiro",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -p 3000"
+  },
+  "keywords": [
+    "brasil",
+    "girias",
+    "mapa",
+    "educativo",
+    "javascript"
+  ],
+  "author": "João Lucas de Oliveira",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seuusuario/mapa-girias-brasileiras.git"
+  },
+  "homepage": "https://seuusuario.github.io/mapa-girias-brasileiras"
+} 

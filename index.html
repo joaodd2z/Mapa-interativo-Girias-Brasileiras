@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="🇧🇷 Explore 150+ gírias de todos os estados brasileiros em um mapa interativo. Descubra a riqueza linguística e cultural do Brasil!">
+    <meta name="keywords" content="gírias brasileiras, expressões regionais, mapa do Brasil, cultura brasileira, linguística, estados, nordeste, sudeste, sul, norte, centro-oeste">
+    <meta name="author" content="João Lucas de Oliveira">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#00875F">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="🇧🇷 Mapa Interativo de Gírias Brasileiras">
+    <meta property="og:description" content="Explore 150+ gírias de todos os estados brasileiros! Descubra expressões únicas de cada região do nosso país continental.">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:site_name" content="Mapa de Gírias Brasileiras">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="🇧🇷 Mapa Interativo de Gírias Brasileiras">
+    <meta name="twitter:description" content="Explore 150+ gírias de todos os estados brasileiros em um mapa interativo!">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🇧🇷%3C/text%3E%3C/svg%3E">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <title>🇧🇷 Mapa de Gírias Brasileiras</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-content">
+            <div class="brasil-flag">
+                <div class="flag-stripe verde"></div>
+                <div class="flag-stripe amarelo">
+                    <div class="flag-circle azul">
+                        <div class="loading-spinner"></div>
+                    </div>
+                </div>
+                <div class="flag-stripe verde"></div>
+            </div>
+            <h2>Carregando Gírias do Brasil...</h2>
+            <p>Preparando a diversidade linguística brasileira</p>
+        </div>
+    </div>
+
+    <!-- Botões de Controle do Header -->
+    <button id="header-maximize" class="header-btn maximize-btn" aria-label="Maximizar Header" title="Clique para maximizar o header (➕)" style="opacity: 0; visibility: hidden;">
+        ➕
+    </button>
+
+    <!-- Header Principal -->
+    <header id="main-header">
+        <div class="scroll-indicator"></div>
+        <!-- Botão Minimizar dentro do header -->
+        <button id="header-minimize" class="header-btn minimize-btn" aria-label="Minimizar Header" title="Clique para minimizar o header (➖)">
+            ➖
+        </button>
+        <div class="header-content">
+            <div class="title-container">
+                <h1>
+                    <span class="flag-emoji">🇧🇷</span>
+                    Mapa Interativo de Gírias Brasileiras
+                    <span class="subtitle-accent">Brasil</span>
+                </h1>
+                <p class="header-subtitle">
+                    Descubra as expressões únicas de cada região do nosso país
+                    <span class="highlight-text">continental</span>
+                </p>
+            </div>
+            
+            <!-- Sistema de Busca Avançado -->
+            <div class="search-container">
+                <div class="search-wrapper">
+                    <input 
+                        type="text" 
+                        id="search-input" 
+                        placeholder="🔍 Buscar estado (ex: São Paulo, SP, Bahia...)" 
+                        autocomplete="off"
+                        aria-label="Buscar estado brasileiro"
+                    >
+                    <button id="search-btn" aria-label="Buscar estado">
+                        <span class="btn-text">Buscar</span>
+                        <span class="btn-icon">🎯</span>
+                    </button>
+                </div>
+                <div id="search-suggestions" class="search-suggestions"></div>
+            </div>
+
+            <!-- Estatísticas -->
+            <div class="stats-container">
+                <div class="stat-item">
+                    <span class="stat-number" id="total-estados">27</span>
+                    <span class="stat-label">Estados</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number" id="total-girias">150+</span>
+                    <span class="stat-label">Gírias</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat-item">
+                    <span class="stat-number">5</span>
+                    <span class="stat-label">Regiões</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Container Principal -->
+    <main class="container">
+        <!-- Seção do Mapa -->
+        <section class="map-section" aria-label="Mapa interativo do Brasil">
+            <div class="map-container">
+                <!-- Controles do Mapa -->
+                <div class="map-controls">
+                    <button id="reset-map" class="control-btn" aria-label="Resetar visualização">
+                        <span>🏠</span> Início
+                    </button>
+                    <button id="zoom-in" class="control-btn" aria-label="Aumentar zoom">
+                        <span>🔍</span> Zoom +
+                    </button>
+                    <button id="fullscreen-map" class="control-btn" aria-label="Tela cheia">
+                        <span>⛶</span> Tela Cheia
+                    </button>
+                </div>
+
+                <!-- Container do SVG -->
+                <div id="mapa-brasil" class="mapa-wrapper">
+                    <!-- O SVG será carregado aqui via JavaScript -->
+                    <div class="map-loading">
+                        <div class="loading"></div>
+                        <p>Carregando mapa do Brasil...</p>
+                    </div>
+                </div>
+
+                <!-- Legenda do Mapa -->
+                <div class="map-legend">
+                    <h4>🗺️ Legenda</h4>
+                    <div class="legend-items">
+                        <div class="legend-item">
+                            <div class="legend-color estado-normal"></div>
+                            <span>Estado disponível</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-color estado-hover"></div>
+                            <span>Mouse sobre o estado</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-color estado-selected"></div>
+                            <span>Estado selecionado</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção de Informações -->
+        <section class="info-section" aria-label="Informações sobre gírias">
+            <div id="info-box" class="info-box">
+                <!-- Boas-vindas Interativas -->
+                <div class="welcome-message">
+                    <div class="welcome-header">
+                        <h2>
+                            <span class="wave-emoji">👋</span>
+                            Bem-vindo ao Brasil das Gírias!
+                        </h2>
+                        <div class="welcome-badges">
+                            <span class="badge cultural">🎭 Cultural</span>
+                            <span class="badge educativo">📚 Educativo</span>
+                            <span class="badge interativo">🎮 Interativo</span>
+                        </div>
+                    </div>
+                    
+                    <div class="welcome-content">
+                        <p class="welcome-description">
+                            Clique em qualquer estado do mapa para descobrir as 
+                            <strong class="highlight-text">gírias e expressões típicas</strong> 
+                            da região. Cada estado tem suas próprias palavras e jeitos únicos 
+                            de falar, refletindo a incrível 
+                            <strong class="highlight-text">diversidade cultural brasileira</strong>!
+                        </p>
+                        
+                        <div class="fun-facts">
+                            <h3>🧠 Você sabia?</h3>
+                            <ul class="facts-list">
+                                <li>O Brasil tem mais de <strong>200 línguas</strong> diferentes!</li>
+                                <li>Cada região desenvolveu gírias únicas ao longo dos séculos</li>
+                                <li>As gírias refletem a história e cultura local</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="instructions">
+                            <h3>🎯 Como explorar:</h3>
+                            <div class="instruction-grid">
+                                <div class="instruction-item">
+                                    <div class="instruction-icon">📍</div>
+                                    <div class="instruction-text">
+                                        <strong>Clique nos estados</strong><br>
+                                        Para ver gírias regionais
+                                    </div>
+                                </div>
+                                <div class="instruction-item">
+                                    <div class="instruction-icon">🔍</div>
+                                    <div class="instruction-text">
+                                        <strong>Use a busca</strong><br>
+                                        Digite nome ou sigla (SP, RJ...)
+                                    </div>
+                                </div>
+                                <div class="instruction-item">
+                                    <div class="instruction-icon">📱</div>
+                                    <div class="instruction-text">
+                                        <strong>Mobile friendly</strong><br>
+                                        Funciona em todos os dispositivos
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Call to Action -->
+                        <div class="cta-section">
+                            <h3>🚀 Pronto para começar?</h3>
+                            <div class="cta-buttons">
+                                <button class="cta-btn primary" onclick="mostrarGiriasEstado('sp')">
+                                    🏙️ Explorar São Paulo
+                                </button>
+                                <button class="cta-btn secondary" onclick="mostrarGiriasEstado('rj')">
+                                    🏖️ Descobrir Rio de Janeiro
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Painel de Progresso -->
+            <div class="progress-panel">
+                <h4>📊 Seu Progresso</h4>
+                <div class="progress-stats">
+                    <div class="progress-item">
+                        <span class="progress-label">Estados visitados:</span>
+                        <span class="progress-value" id="visited-count">0/27</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                    <div class="achievement-badges" id="achievement-badges">
+                        <!-- Conquistas serão adicionadas dinamicamente -->
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Melhorado -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-info">
+                <h3>🇧🇷 Mapa de Gírias Brasileiras</h3>
+                <p>Um projeto educativo sobre a diversidade linguística do Brasil</p>
+                <div class="footer-stats">
+                    <span>150+ gírias catalogadas</span>
+                    <span>•</span>
+                    <span>27 estados cobertos</span>
+                    <span>•</span>
+                    <span>100% gratuito</span>
+                </div>
+            </div>
+            
+            <div class="footer-links">
+                <div class="footer-section">
+                    <h4>📚 Recursos</h4>
+                    <ul>
+                        <li><a href="#" onclick="mostrarSobre()">Sobre o Projeto</a></li>
+                        <li><a href="#" onclick="mostrarEstatisticas()">Estatísticas</a></li>
+                        <li><a href="#" onclick="sugerirGiria()">Sugerir Gíria</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>🔗 Conectar</h4>
+                    <div class="share-buttons">
+                        <a href="https://www.linkedin.com/in/jasao369" target="_blank" rel="noopener noreferrer" class="share-btn linkedin" aria-label="Conectar no LinkedIn">
+                            💼 LinkedIn
+                        </a>
+                        <button class="share-btn" onclick="compartilharProjeto()" aria-label="Compartilhar projeto">
+                            📤 Compartilhar
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 - <strong>João Lucas de Oliveira</strong></p>
+                <p>Feito com <span class="heart">❤️</span> para celebrar a cultura brasileira</p>
+                <div class="footer-tech">
+                    <span>HTML5</span> • <span>CSS3</span> • <span>JavaScript</span> • <span>SVG</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Toast de Notificações -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+    
+    <script>
+        // Console log bonito
+        window.addEventListener('load', function() {
+            console.log('%c🇧🇷 Mapa de Gírias Brasileiras', 'font-size: 20px; color: #00875F; font-weight: bold;');
+            console.log('%cProjeto educativo sobre nossa diversidade linguística', 'color: #666;');
+            console.log('%cFeito por: João Lucas de Oliveira', 'color: #FBA94C; font-weight: bold;');
+            console.log('%cLinkedIn: https://www.linkedin.com/in/jasao369', 'color: #0A66C2;');
+        });
+    </script>
+</body>
+</html> 
