@@ -278,9 +278,9 @@ MIT License - Sinta-se livre para usar, modificar e distribuir!
 
 **João Lucas de Oliveira**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/seuusuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![GitHub]([https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/seuusuario](https://github.com/joaodd2z/Mapa-interativo-Girias-Brasileiras))
+[![LinkedIn](https://www.linkedin.com/in/jasao369)
+[![Email](jl.lucas.oliveira@hotmail.com)
 
 *"Celebrando a diversidade linguística do Brasil através da tecnologia"*
 
