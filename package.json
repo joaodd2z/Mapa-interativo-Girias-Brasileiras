@@ -1,0 +1,43 @@
+{
+  "name": "mapa-girias-brasileiras",
+  "version": "2.0.0",
+  "description": "Mapa interativo das gírias de cada estado brasileiro - versão premium com Python integrado",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000 --live-reload",
+    "build": "echo 'Build ready - static files'",
+    "deploy": "vercel --prod",
+    "python:update": "python scripts/update_girias.py",
+    "python:validate": "python scripts/validate_data.py",
+    "python:analytics": "python scripts/analytics.py"
+  },
+  "keywords": [
+    "brasil",
+    "girias",
+    "mapa",
+    "educativo",
+    "javascript",
+    "python",
+    "cultural",
+    "interativo",
+    "linguistica",
+    "vercel"
+  ],
+  "author": "João Lucas de Oliveira",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasao369/mapa-girias-brasileiras.git"
+  },
+  "homepage": "https://mapa-girias-brasileiras.vercel.app",
+  "bugs": {
+    "url": "https://github.com/jasao369/mapa-girias-brasileiras/issues"
+  }
+} 

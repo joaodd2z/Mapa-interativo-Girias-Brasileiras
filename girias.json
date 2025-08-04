@@ -1,0 +1,1752 @@
+{
+  "ac": {
+    "estado": "Acre",
+    "girias": [
+      {
+        "termo": "gaiato",
+        "significado": "pessoa engraçada, brincalhona",
+        "exemplo": "Esse cara é muito gaiato, sempre fazendo piada!"
+      },
+      {
+        "termo": "cabra macho",
+        "significado": "homem corajoso, valente",
+        "exemplo": "Aquele cabra macho enfrentou a onça sozinho."
+      },
+      {
+        "termo": "manauara",
+        "significado": "pessoa de Manaus, amazônico",
+        "exemplo": "Sou manauara de coração!"
+      },
+      {
+        "termo": "beiradeiro",
+        "significado": "pessoa que mora nas margens dos rios",
+        "exemplo": "Os beiradeiros conhecem todos os segredos da floresta."
+      },
+      {
+        "termo": "encalacrado",
+        "significado": "pessoa em situação difícil",
+        "exemplo": "Fiquei encalacrado sem dinheiro na cidade."
+      },
+      {
+        "termo": "piracema",
+        "significado": "época de reprodução dos peixes quando é proibido pescar",
+        "exemplo": "Na piracema não pode pescar, é lei federal."
+      },
+      {
+        "termo": "colocação",
+        "significado": "área de trabalho do seringueiro na floresta",
+        "exemplo": "Minha colocação fica três horas rio acima."
+      },
+      {
+        "termo": "estrada de seringa",
+        "significado": "caminho entre as seringueiras para coletar látex",
+        "exemplo": "Saiu de madrugada para correr a estrada de seringa."
+      },
+      {
+        "termo": "toco",
+        "significado": "lugar afastado, fim do mundo",
+        "exemplo": "Moro no toco mesmo, longe de tudo."
+      },
+      {
+        "termo": "bruaca",
+        "significado": "sacola ou bag resistente para a floresta",
+        "exemplo": "Leva a bruaca com os mantimentos."
+      }
+    ]
+  },
+  "al": {
+    "estado": "Alagoas",
+    "girias": [
+      {
+        "termo": "oxente",
+        "significado": "expressão de espanto ou surpresa",
+        "exemplo": "Oxente, que história é essa?"
+      },
+      {
+        "termo": "massa",
+        "significado": "legal, bacana",
+        "exemplo": "Essa festa tá massa demais!"
+      },
+      {
+        "termo": "aperreado",
+        "significado": "pessoa preocupada, aflita",
+        "exemplo": "Tô aperreado com essa situação."
+      },
+      {
+        "termo": "bichinho",
+        "significado": "pessoa querida",
+        "exemplo": "Que bichinho mais fofo!"
+      },
+      {
+        "termo": "cabra da peste",
+        "significado": "pessoa esperta, danada",
+        "exemplo": "Esse menino é um cabra da peste mesmo."
+      },
+      {
+        "termo": "brutamonte",
+        "significado": "muito grande, imenso",
+        "exemplo": "Uma casa brutamonte de bonita!"
+      },
+      {
+        "termo": "arigó",
+        "significado": "pessoa não muito esperta",
+        "exemplo": "Não seja arigó, rapaz!"
+      },
+      {
+        "termo": "sem eira nem beira",
+        "significado": "pessoa sem recursos, pobre",
+        "exemplo": "Ficou sem eira nem beira depois da seca."
+      },
+      {
+        "termo": "fuleiro",
+        "significado": "de má qualidade, vagabundo",
+        "exemplo": "Esse produto é muito fuleiro."
+      },
+      {
+        "termo": "bexigoso",
+        "significado": "medroso, covarde",
+        "exemplo": "Para de ser bexigoso e vem logo!"
+      }
+    ]
+  },
+  "ap": {
+    "estado": "Amapá",
+    "girias": [
+      {
+        "termo": "quebra-galho",
+        "significado": "pessoa que resolve problemas",
+        "exemplo": "Chama o João, ele é um quebra-galho."
+      },
+      {
+        "termo": "vapt-vupt",
+        "significado": "rapidinho, logo",
+        "exemplo": "Vou ali vapt-vupt e já volto."
+      },
+      {
+        "termo": "marujo",
+        "significado": "pessoa que navega muito",
+        "exemplo": "Aquele marujo conhece todos os rios."
+      },
+      {
+        "termo": "caboclo",
+        "significado": "pessoa ribeirinha, nativa",
+        "exemplo": "O caboclo ensinou a pescar tambaqui."
+      },
+      {
+        "termo": "pixé",
+        "significado": "fedido, malcheiroso",
+        "exemplo": "Saí do mato todo pixé de suor."
+      },
+      {
+        "termo": "tapiri",
+        "significado": "casa simples de palha",
+        "exemplo": "Montou um tapiri na beira do rio."
+      },
+      {
+        "termo": "amapaense",
+        "significado": "pessoa do Amapá",
+        "exemplo": "Todo amapaense conhece açaí."
+      },
+      {
+        "termo": "curimã",
+        "significado": "peixe típico da região",
+        "exemplo": "Pescou um curimã grande no rio."
+      }
+    ]
+  },
+  "am": {
+    "estado": "Amazonas",
+    "girias": [
+      {
+        "termo": "compadre",
+        "significado": "amigo, parceiro",
+        "exemplo": "E aí, compadre, tudo certo?"
+      },
+      {
+        "termo": "brabeza",
+        "significado": "dificuldade, problema",
+        "exemplo": "Essa situação tá uma brabeza mesmo."
+      },
+      {
+        "termo": "manauara",
+        "significado": "pessoa de Manaus",
+        "exemplo": "Sou manauara de carteirinha!"
+      },
+      {
+        "termo": "pitiú",
+        "significado": "cheiro ruim, catinga",
+        "exemplo": "Que pitiú é esse no rio?"
+      },
+      {
+        "termo": "curimatá",
+        "significado": "pessoa que gosta de pescar",
+        "exemplo": "Esse curimatá vive no rio."
+      },
+      {
+        "termo": "mucuim",
+        "significado": "mosquito pequeno que pica",
+        "exemplo": "Os mucuim tão atacando hoje!"
+      },
+      {
+        "termo": "paca",
+        "significado": "muito, bastante",
+        "exemplo": "Choveu paca ontem à noite."
+      },
+      {
+        "termo": "igarapé",
+        "significado": "rio pequeno, riacho",
+        "exemplo": "Vamos pescar no igarapé."
+      },
+      {
+        "termo": "cunhantã",
+        "significado": "menina, moça jovem",
+        "exemplo": "Essa cunhantã é muito esperta."
+      },
+      {
+        "termo": "curumim",
+        "significado": "menino indígena, criança",
+        "exemplo": "O curumim aprendeu a pescar cedo."
+      },
+      {
+        "termo": "boto",
+        "significado": "golfinho do rio Amazonas",
+        "exemplo": "Viram um boto cor-de-rosa no rio."
+      },
+      {
+        "termo": "maloca",
+        "significado": "casa grande indígena",
+        "exemplo": "A maloca abriga toda a família."
+      }
+    ]
+  },
+  "ba": {
+    "estado": "Bahia",
+    "girias": [
+      {
+        "termo": "axé",
+        "significado": "energia positiva, força",
+        "exemplo": "Muito axé pra você hoje!"
+      },
+      {
+        "termo": "arretado",
+        "significado": "legal, bacana, incrível",
+        "exemplo": "Essa música é arretada demais!"
+      },
+      {
+        "termo": "bichinho",
+        "significado": "pessoa querida, fofa",
+        "exemplo": "Que bichinho mais fofo esse menino!"
+      },
+      {
+        "termo": "danado",
+        "significado": "esperto, travesso",
+        "exemplo": "Esse menino é muito danado mesmo."
+      },
+      {
+        "termo": "peba",
+        "significado": "ruim, de baixa qualidade",
+        "exemplo": "Esse filme é muito peba."
+      },
+      {
+        "termo": "avexado",
+        "significado": "apressado, com pressa",
+        "exemplo": "Para de ficar avexado, rapaz!"
+      },
+      {
+        "termo": "égua",
+        "significado": "expressão de espanto",
+        "exemplo": "Égua, que susto!"
+      },
+      {
+        "termo": "mainha",
+        "significado": "mãe",
+        "exemplo": "Mainha fez um almoço arretado."
+      },
+      {
+        "termo": "painho",
+        "significado": "pai",
+        "exemplo": "Painho chegou do trabalho."
+      },
+      {
+        "termo": "aloprado",
+        "significado": "doido, maluco",
+        "exemplo": "Esse cara é aloprado mesmo."
+      },
+      {
+        "termo": "cafuçu",
+        "significado": "caipira, interiorano",
+        "exemplo": "Sou cafuçu do sertão baiano."
+      },
+      {
+        "termo": "xodó",
+        "significado": "pessoa querida, favorita",
+        "exemplo": "Você é meu xodó."
+      },
+      {
+        "termo": "paixão",
+        "significado": "fruta típica da Bahia",
+        "exemplo": "Essa paixão tá docinha."
+      },
+      {
+        "termo": "baiano",
+        "significado": "pessoa da Bahia, jeito tranquilo",
+        "exemplo": "Faz as coisas no tempo baiano."
+      },
+      {
+        "termo": "dendê",
+        "significado": "azeite típico usado na culinária",
+        "exemplo": "O acarajé tem que ter dendê."
+      }
+    ]
+  },
+  "ce": {
+    "estado": "Ceará",
+    "girias": [
+      {
+        "termo": "eita",
+        "significado": "expressão de surpresa",
+        "exemplo": "Eita, que susto você me deu!"
+      },
+      {
+        "termo": "oxe",
+        "significado": "expressão de espanto",
+        "exemplo": "Oxe, como assim você não sabia?"
+      },
+      {
+        "termo": "véi",
+        "significado": "cara, mano",
+        "exemplo": "Ô véi, vem cá um pouquinho."
+      },
+      {
+        "termo": "peste",
+        "significado": "pessoa travessa",
+        "exemplo": "Esse menino é uma peste!"
+      },
+      {
+        "termo": "cabra",
+        "significado": "cara, pessoa",
+        "exemplo": "Esse cabra é gente boa."
+      },
+      {
+        "termo": "massa",
+        "significado": "legal, bom",
+        "exemplo": "Que massa essa música!"
+      },
+      {
+        "termo": "sintonia",
+        "significado": "harmonia, conexão",
+        "exemplo": "A gente tá numa sintonia boa."
+      },
+      {
+        "termo": "desenrolo",
+        "significado": "jeito de resolver as coisas",
+        "exemplo": "Ele tem um desenrolo bom pra negócios."
+      },
+      {
+        "termo": "apelido",
+        "significado": "alcunha, nome carinhoso",
+        "exemplo": "Todo cearense tem um apelido."
+      },
+      {
+        "termo": "cearense",
+        "significado": "pessoa do Ceará",
+        "exemplo": "Cearense é povo guerreiro."
+      },
+      {
+        "termo": "fortalezense",
+        "significado": "pessoa de Fortaleza",
+        "exemplo": "Fortalezense ama a praia."
+      },
+      {
+        "termo": "gritaria",
+        "significado": "festa animada, barulho",
+        "exemplo": "Que gritaria boa essa festa!"
+      },
+      {
+        "termo": "pirangueiro",
+        "significado": "pescador",
+        "exemplo": "O pirangueiro saiu cedo pro mar."
+      }
+    ]
+  },
+  "df": {
+    "estado": "Distrito Federal",
+    "girias": [
+      {
+        "termo": "mó",
+        "significado": "muito, mega",
+        "exemplo": "Esse filme é mó legal!"
+      },
+      {
+        "termo": "trampo",
+        "significado": "trabalho, emprego",
+        "exemplo": "Preciso achar um trampo novo."
+      },
+      {
+        "termo": "rolê",
+        "significado": "passeio, programa",
+        "exemplo": "Vamos dar um rolê no shopping?"
+      },
+      {
+        "termo": "paia",
+        "significado": "chato, ruim",
+        "exemplo": "Que paia essa situação."
+      },
+      {
+        "termo": "parada",
+        "significado": "coisa, situação",
+        "exemplo": "Qual é a parada hoje?"
+      },
+      {
+        "termo": "sinistro",
+        "significado": "legal, maneiro",
+        "exemplo": "Essa festa tá sinistra!"
+      },
+      {
+        "termo": "quebrada",
+        "significado": "bairro, região",
+        "exemplo": "Lá na minha quebrada é diferente."
+      },
+      {
+        "termo": "brasiliense",
+        "significado": "pessoa de Brasília",
+        "exemplo": "Brasiliense conhece todas as siglas."
+      },
+      {
+        "termo": "candango",
+        "significado": "operário que construiu Brasília",
+        "exemplo": "Meu avô era candango."
+      },
+      {
+        "termo": "eixão",
+        "significado": "avenida principal de Brasília",
+        "exemplo": "Vamos pelo eixão que é mais rápido."
+      }
+    ]
+  },
+  "es": {
+    "estado": "Espírito Santo",
+    "girias": [
+      {
+        "termo": "uai",
+        "significado": "expressão de surpresa",
+        "exemplo": "Uai, você não tinha dito isso?"
+      },
+      {
+        "termo": "capixaba",
+        "significado": "pessoa do Espírito Santo",
+        "exemplo": "Sou capixaba com muito orgulho!"
+      },
+      {
+        "termo": "pé-de-moleque",
+        "significado": "doce típico, pessoa travessa",
+        "exemplo": "Esse menino é um pé-de-moleque."
+      },
+      {
+        "termo": "quitute",
+        "significado": "comida gostosa",
+        "exemplo": "Que quitute delicioso essa moqueca!"
+      },
+      {
+        "termo": "paneleiro",
+        "significado": "pessoa que gosta de cozinhar",
+        "exemplo": "Meu pai é um paneleiro de primeira."
+      },
+      {
+        "termo": "brejeiro",
+        "significado": "pessoa esperta, manhosa",
+        "exemplo": "Esse vendedor é muito brejeiro."
+      },
+      {
+        "termo": "moqueca",
+        "significado": "prato típico capixaba",
+        "exemplo": "A moqueca capixaba não leva dendê."
+      },
+      {
+        "termo": "panela de barro",
+        "significado": "utensílio tradicional para moqueca",
+        "exemplo": "Moqueca boa é feita na panela de barro."
+      },
+      {
+        "termo": "vitoriense",
+        "significado": "pessoa de Vitória",
+        "exemplo": "Vitoriense ama uma moqueca."
+      },
+      {
+        "termo": "torta capixaba",
+        "significado": "prato típico da Páscoa",
+        "exemplo": "Na Páscoa tem torta capixaba."
+      }
+    ]
+  },
+  "go": {
+    "estado": "Goiás",
+    "girias": [
+      {
+        "termo": "sô",
+        "significado": "cara, mano",
+        "exemplo": "E aí, sô, beleza?"
+      },
+      {
+        "termo": "barbaridade",
+        "significado": "nossa, caramba",
+        "exemplo": "Barbaridade, que calor hoje!"
+      },
+      {
+        "termo": "trem",
+        "significado": "coisa, negócio",
+        "exemplo": "Que trem bom é esse?"
+      },
+      {
+        "termo": "caipira",
+        "significado": "pessoa do interior",
+        "exemplo": "Sou caipira de raiz!"
+      },
+      {
+        "termo": "modão",
+        "significado": "música sertaneja",
+        "exemplo": "Vamos escutar um modão?"
+      },
+      {
+        "termo": "peão",
+        "significado": "trabalhador rural",
+        "exemplo": "Esse peão trabalha desde cedo."
+      },
+      {
+        "termo": "mateada",
+        "significado": "reunião para tomar mate",
+        "exemplo": "Vamos fazer uma mateada hoje?"
+      },
+      {
+        "termo": "goiano",
+        "significado": "pessoa de Goiás",
+        "exemplo": "Goiano é povo acolhedor."
+      },
+      {
+        "termo": "goianiense",
+        "significado": "pessoa de Goiânia",
+        "exemplo": "Goianiense ama sertanejo."
+      },
+      {
+        "termo": "rodeio",
+        "significado": "festa com montaria em touros",
+        "exemplo": "Fim de semana tem rodeio na cidade."
+      },
+      {
+        "termo": "viola",
+        "significado": "instrumento típico sertanejo",
+        "exemplo": "Toca uma viola aí, sô!"
+      }
+    ]
+  },
+  "ma": {
+    "estado": "Maranhão",
+    "girias": [
+      {
+        "termo": "rapaz",
+        "significado": "cara, mano",
+        "exemplo": "Rapaz, que história é essa?"
+      },
+      {
+        "termo": "danado",
+        "significado": "esperto, travesso",
+        "exemplo": "Esse menino é muito danado."
+      },
+      {
+        "termo": "bumba",
+        "significado": "coisa grande, impressionante",
+        "exemplo": "Que bumba de festa bonita!"
+      },
+      {
+        "termo": "cazumbá",
+        "significado": "figura folclórica, pessoa assustadora",
+        "exemplo": "Parece um cazumbá com essa roupa."
+      },
+      {
+        "termo": "punga",
+        "significado": "bolsa, sacola",
+        "exemplo": "Pega minha punga ali."
+      },
+      {
+        "termo": "reggae",
+        "significado": "música e dança típica do Maranhão",
+        "exemplo": "Vamos dançar reggae na praia?"
+      },
+      {
+        "termo": "maranhense",
+        "significado": "pessoa do Maranhão",
+        "exemplo": "Todo maranhense ama reggae."
+      },
+      {
+        "termo": "tambor de crioula",
+        "significado": "dança típica maranhense",
+        "exemplo": "O tambor de crioula animou a festa."
+      },
+      {
+        "termo": "ludovicense",
+        "significado": "pessoa de São Luís",
+        "exemplo": "Ludovicense conhece os azulejos."
+      },
+      {
+        "termo": "bumba-meu-boi",
+        "significado": "festa folclórica tradicional",
+        "exemplo": "O bumba-meu-boi é patrimônio cultural."
+      },
+      {
+        "termo": "urrou",
+        "significado": "gritou, berrou",
+        "exemplo": "Urrou de alegria na festa."
+      }
+    ]
+  },
+  "mt": {
+    "estado": "Mato Grosso",
+    "girias": [
+      {
+        "termo": "tchê",
+        "significado": "cara, amigo",
+        "exemplo": "E aí, tchê, tudo beleza?"
+      },
+      {
+        "termo": "bah",
+        "significado": "expressão de surpresa",
+        "exemplo": "Bah, que legal isso!"
+      },
+      {
+        "termo": "pantaneiro",
+        "significado": "pessoa do Pantanal",
+        "exemplo": "Sou pantaneiro de nascença."
+      },
+      {
+        "termo": "boiadeiro",
+        "significado": "vaqueiro, condutor de gado",
+        "exemplo": "Meu avô era boiadeiro nas fazendas."
+      },
+      {
+        "termo": "chalana",
+        "significado": "embarcação pequena",
+        "exemplo": "Vamos de chalana pelo rio?"
+      },
+      {
+        "termo": "cuiabano",
+        "significado": "pessoa de Cuiabá",
+        "exemplo": "Todo cuiabano conhece o Pantanal."
+      },
+      {
+        "termo": "pousada",
+        "significado": "lugar para descansar",
+        "exemplo": "Vamos parar naquela pousada."
+      },
+      {
+        "termo": "mato-grossense",
+        "significado": "pessoa do Mato Grosso",
+        "exemplo": "Mato-grossense é hospitaleiro."
+      },
+      {
+        "termo": "comitiva",
+        "significado": "grupo de boiadeiros",
+        "exemplo": "A comitiva chegou com o gado."
+      },
+      {
+        "termo": "tucano",
+        "significado": "ave típica da região",
+        "exemplo": "Vimos um tucano no Pantanal."
+      },
+      {
+        "termo": "jacaré",
+        "significado": "réptil comum no Pantanal",
+        "exemplo": "Cuidado com o jacaré no rio."
+      },
+      {
+        "termo": "piranha",
+        "significado": "peixe carnívoro dos rios",
+        "exemplo": "Não mergulha aí que tem piranha."
+      }
+    ]
+  },
+  "ms": {
+    "estado": "Mato Grosso do Sul",
+    "girias": [
+      {
+        "termo": "piá",
+        "significado": "garoto, menino",
+        "exemplo": "Aquele piá joga bola muito bem."
+      },
+      {
+        "termo": "guri",
+        "significado": "menino, garoto",
+        "exemplo": "Esse guri é muito esperto."
+      },
+      {
+        "termo": "sul-mato-grossense",
+        "significado": "pessoa do MS",
+        "exemplo": "Sou sul-mato-grossense com orgulho."
+      },
+      {
+        "termo": "tereré",
+        "significado": "erva-mate gelada",
+        "exemplo": "Vamos tomar um tereré?"
+      },
+      {
+        "termo": "churrasco",
+        "significado": "carne assada",
+        "exemplo": "Domingo tem churrasco na fazenda."
+      },
+      {
+        "termo": "campo-grandense",
+        "significado": "pessoa de Campo Grande",
+        "exemplo": "Todo campo-grandense ama tereré."
+      },
+      {
+        "termo": "fazendeiro",
+        "significado": "dono de fazenda",
+        "exemplo": "Meu tio é fazendeiro de gado."
+      },
+      {
+        "termo": "guaicurus",
+        "significado": "povo indígena da região",
+        "exemplo": "Os guaicurus eram guerreiros."
+      },
+      {
+        "termo": "bonito",
+        "significado": "cidade turística famosa",
+        "exemplo": "Bonito tem águas cristalinas."
+      },
+      {
+        "termo": "dourado",
+        "significado": "peixe nobre dos rios",
+        "exemplo": "Pescou um dourado de 10 quilos."
+      }
+    ]
+  },
+  "mg": {
+    "estado": "Minas Gerais",
+    "girias": [
+      {
+        "termo": "uai",
+        "significado": "expressão de espanto ou dúvida",
+        "exemplo": "Uai, como assim você não sabia?"
+      },
+      {
+        "termo": "trem",
+        "significado": "coisa, negócio",
+        "exemplo": "Que trem estranho é esse?"
+      },
+      {
+        "termo": "sô",
+        "significado": "cara, mano",
+        "exemplo": "Ô sô, vem cá!"
+      },
+      {
+        "termo": "pão de açúcar",
+        "significado": "coisa muito boa",
+        "exemplo": "Essa comida tá um pão de açúcar!"
+      },
+      {
+        "termo": "mineiro",
+        "significado": "pessoa de Minas",
+        "exemplo": "Todo mineiro fala devagar."
+      },
+      {
+        "termo": "queijo",
+        "significado": "especialidade mineira",
+        "exemplo": "Queijo mineiro é o melhor do mundo."
+      },
+      {
+        "termo": "tropeiro",
+        "significado": "comida típica ou viajante",
+        "exemplo": "Vamos comer um tropeiro?"
+      },
+      {
+        "termo": "bão",
+        "significado": "bom, legal",
+        "exemplo": "Isso aí tá bão demais!"
+      },
+      {
+        "termo": "arrudear",
+        "significado": "dar voltas, contornar",
+        "exemplo": "Para de arrudear e fala logo!"
+      },
+      {
+        "termo": "belorizontino",
+        "significado": "pessoa de Belo Horizonte",
+        "exemplo": "Belorizontino ama pão de açúcar."
+      },
+      {
+        "termo": "compadre",
+        "significado": "amigo, companheiro",
+        "exemplo": "Oi, compadre, como vai?"
+      },
+      {
+        "termo": "buteco",
+        "significado": "bar simples, botequim",
+        "exemplo": "Vamos no buteco tomar uma?"
+      },
+      {
+        "termo": "cachaça",
+        "significado": "bebida típica mineira",
+        "exemplo": "Cachaça mineira é das boas."
+      },
+      {
+        "termo": "goiabada",
+        "significado": "doce típico com queijo",
+        "exemplo": "Queijo com goiabada é Romeu e Julieta."
+      },
+      {
+        "termo": "montanha",
+        "significado": "relevo típico de Minas",
+        "exemplo": "Minas tem montanhas lindas."
+      }
+    ]
+  },
+  "pa": {
+    "estado": "Pará",
+    "girias": [
+      {
+        "termo": "mana",
+        "significado": "irmã, amiga",
+        "exemplo": "E aí, mana, tudo bem?"
+      },
+      {
+        "termo": "égua",
+        "significado": "nossa, caramba",
+        "exemplo": "Égua, que calor hoje!"
+      },
+      {
+        "termo": "paraense",
+        "significado": "pessoa do Pará",
+        "exemplo": "Todo paraense ama açaí."
+      },
+      {
+        "termo": "açaí",
+        "significado": "fruta típica",
+        "exemplo": "Vamos tomar açaí na tigela?"
+      },
+      {
+        "termo": "beiradão",
+        "significado": "margem do rio",
+        "exemplo": "Vamos pescar no beiradão."
+      },
+      {
+        "termo": "caboco",
+        "significado": "pessoa ribeirinha",
+        "exemplo": "O caboco conhece todos os peixes."
+      },
+      {
+        "termo": "regaton",
+        "significado": "vendedor ambulante de barco",
+        "exemplo": "O regaton passou vendendo frutas."
+      },
+      {
+        "termo": "tapiri",
+        "significado": "casa simples, palhoça",
+        "exemplo": "Montou um tapiri na beira do rio."
+      },
+      {
+        "termo": "belenense",
+        "significado": "pessoa de Belém",
+        "exemplo": "Belenense conhece o Ver-o-Peso."
+      },
+      {
+        "termo": "círio",
+        "significado": "festa religiosa tradicional",
+        "exemplo": "O Círio de Nazaré é emocionante."
+      },
+      {
+        "termo": "tucumã",
+        "significado": "fruta típica da região",
+        "exemplo": "Tucumã com açúcar é delicioso."
+      },
+      {
+        "termo": "cupuaçu",
+        "significado": "fruta amazônica",
+        "exemplo": "Mousse de cupuaçu é uma delícia."
+      },
+      {
+        "termo": "pirarucu",
+        "significado": "peixe gigante da Amazônia",
+        "exemplo": "Pirarucu assado é tradicional."
+      }
+    ]
+  },
+  "pb": {
+    "estado": "Paraíba",
+    "girias": [
+      {
+        "termo": "oxente",
+        "significado": "expressão de surpresa",
+        "exemplo": "Oxente, que coisa é essa?"
+      },
+      {
+        "termo": "cabra",
+        "significado": "cara, pessoa",
+        "exemplo": "Esse cabra é gente boa."
+      },
+      {
+        "termo": "paraibano",
+        "significado": "pessoa da Paraíba",
+        "exemplo": "Sou paraibano de carteirinha!"
+      },
+      {
+        "termo": "forró",
+        "significado": "música e dança típica",
+        "exemplo": "Vamos dançar forró hoje?"
+      },
+      {
+        "termo": "vaquejada",
+        "significado": "festa com boi",
+        "exemplo": "A vaquejada foi emocionante."
+      },
+      {
+        "termo": "sanfoneiro",
+        "significado": "tocador de sanfona",
+        "exemplo": "Aquele sanfoneiro toca muito bem."
+      },
+      {
+        "termo": "aboio",
+        "significado": "canto para chamar o gado",
+        "exemplo": "O vaqueiro fez um aboio lindo."
+      },
+      {
+        "termo": "pessoense",
+        "significado": "pessoa de João Pessoa",
+        "exemplo": "Pessoense ama as praias."
+      },
+      {
+        "termo": "campinense",
+        "significado": "pessoa de Campina Grande",
+        "exemplo": "Campinense é povo festeiro."
+      },
+      {
+        "termo": "baião",
+        "significado": "ritmo musical tradicional",
+        "exemplo": "Baião de dois é clássico."
+      },
+      {
+        "termo": "xaxado",
+        "significado": "dança típica nordestina",
+        "exemplo": "Xaxado animou a festa junina."
+      }
+    ]
+  },
+  "pr": {
+    "estado": "Paraná",
+    "girias": [
+      {
+        "termo": "guri",
+        "significado": "menino, garoto",
+        "exemplo": "Esse guri é muito esperto."
+      },
+      {
+        "termo": "piá",
+        "significado": "garoto, menino",
+        "exemplo": "Aquele piá joga bola muito bem."
+      },
+      {
+        "termo": "tri",
+        "significado": "muito, super",
+        "exemplo": "Essa comida tá tri boa!"
+      },
+      {
+        "termo": "paranaense",
+        "significado": "pessoa do Paraná",
+        "exemplo": "Todo paranaense é trabalhador."
+      },
+      {
+        "termo": "chimarrão",
+        "significado": "erva-mate quente",
+        "exemplo": "Vamos tomar um chimarrão?"
+      },
+      {
+        "termo": "curitibano",
+        "significado": "pessoa de Curitiba",
+        "exemplo": "Curitibano adora um frio."
+      },
+      {
+        "termo": "pinhão",
+        "significado": "semente da araucária",
+        "exemplo": "No inverno tem pinhão quentinho."
+      },
+      {
+        "termo": "colonos",
+        "significado": "imigrantes europeus",
+        "exemplo": "Meus avós eram colonos alemães."
+      },
+      {
+        "termo": "fandango",
+        "significado": "dança tradicional paranaense",
+        "exemplo": "O fandango animou a festa."
+      },
+      {
+        "termo": "barreado",
+        "significado": "prato típico do litoral",
+        "exemplo": "Barreado é comida de panela de barro."
+      },
+      {
+        "termo": "pinheiro",
+        "significado": "araucária, árvore símbolo",
+        "exemplo": "O pinheiro é símbolo do Paraná."
+      }
+    ]
+  },
+  "pe": {
+    "estado": "Pernambuco",
+    "girias": [
+      {
+        "termo": "véi",
+        "significado": "cara, mano",
+        "exemplo": "Ô véi, vem cá!"
+      },
+      {
+        "termo": "oxe",
+        "significado": "expressão de espanto",
+        "exemplo": "Oxe, como é que pode?"
+      },
+      {
+        "termo": "cabra",
+        "significado": "cara, pessoa",
+        "exemplo": "Esse cabra da peste é danado."
+      },
+      {
+        "termo": "frevo",
+        "significado": "música e dança típica",
+        "exemplo": "No carnaval só toca frevo!"
+      },
+      {
+        "termo": "pernambucano",
+        "significado": "pessoa de Pernambuco",
+        "exemplo": "Todo pernambucano ama frevo."
+      },
+      {
+        "termo": "maracatu",
+        "significado": "manifestação cultural",
+        "exemplo": "O maracatu desceu a ladeira."
+      },
+      {
+        "termo": "manguebeat",
+        "significado": "movimento musical",
+        "exemplo": "Chico Science criou o manguebeat."
+      },
+      {
+        "termo": "recifense",
+        "significado": "pessoa do Recife",
+        "exemplo": "Recifense conhece todos os rios."
+      },
+      {
+        "termo": "capibaribe",
+        "significado": "rio que corta Recife",
+        "exemplo": "O Capibaribe é a alma da cidade."
+      },
+      {
+        "termo": "olindense",
+        "significado": "pessoa de Olinda",
+        "exemplo": "Olindense vive no carnaval."
+      },
+      {
+        "termo": "ciranda",
+        "significado": "dança de roda tradicional",
+        "exemplo": "A ciranda animou a praia."
+      },
+      {
+        "termo": "coco",
+        "significado": "dança e ritmo popular",
+        "exemplo": "Coco de roda é tradição."
+      },
+      {
+        "termo": "caboclinhos",
+        "significado": "dança folclórica",
+        "exemplo": "Os caboclinhos dançaram na festa."
+      }
+    ]
+  },
+  "pi": {
+    "estado": "Piauí",
+    "girias": [
+      {
+        "termo": "rapaz",
+        "significado": "cara, mano",
+        "exemplo": "Rapaz, que história doida!"
+      },
+      {
+        "termo": "eita",
+        "significado": "expressão de surpresa",
+        "exemplo": "Eita, que susto!"
+      },
+      {
+        "termo": "piauiense",
+        "significado": "pessoa do Piauí",
+        "exemplo": "Sou piauiense com orgulho."
+      },
+      {
+        "termo": "vaqueiro",
+        "significado": "pessoa que cuida do gado",
+        "exemplo": "Meu pai era vaqueiro na fazenda."
+      },
+      {
+        "termo": "caatinga",
+        "significado": "vegetação típica",
+        "exemplo": "A caatinga tem sua beleza."
+      },
+      {
+        "termo": "bumba-meu-boi",
+        "significado": "festa folclórica",
+        "exemplo": "O bumba-meu-boi animou a cidade."
+      },
+      {
+        "termo": "cajueiro",
+        "significado": "árvore típica",
+        "exemplo": "Subimos no cajueiro gigante."
+      },
+      {
+        "termo": "teresinense",
+        "significado": "pessoa de Teresina",
+        "exemplo": "Teresinense aguenta o calor."
+      },
+      {
+        "termo": "sertanejo",
+        "significado": "pessoa do sertão",
+        "exemplo": "Sertanejo é povo forte."
+      },
+      {
+        "termo": "mandacaru",
+        "significado": "cacto típico do sertão",
+        "exemplo": "Quando o mandacaru floresce é sinal de chuva."
+      },
+      {
+        "termo": "babaçu",
+        "significado": "palmeira típica",
+        "exemplo": "O babaçu dá óleo e outros produtos."
+      }
+    ]
+  },
+  "rj": {
+    "estado": "Rio de Janeiro",
+    "girias": [
+      {
+        "termo": "mermão",
+        "significado": "irmão, parceiro",
+        "exemplo": "Caraca, mermão, que doideira!"
+      },
+      {
+        "termo": "maneiro",
+        "significado": "legal, bacana",
+        "exemplo": "Esse filme tá maneiro demais!"
+      },
+      {
+        "termo": "parada",
+        "significado": "coisa, situação",
+        "exemplo": "Essa parada tá estranha."
+      },
+      {
+        "termo": "vacilo",
+        "significado": "erro, besteira",
+        "exemplo": "Foi um vacilo eu não ter ido."
+      },
+      {
+        "termo": "carioca",
+        "significado": "pessoa do Rio de Janeiro",
+        "exemplo": "Todo carioca ama a praia."
+      },
+      {
+        "termo": "galera",
+        "significado": "pessoal, turma",
+        "exemplo": "A galera tá chegando na praia."
+      },
+      {
+        "termo": "papo",
+        "significado": "conversa",
+        "exemplo": "Que papo é esse, cara?"
+      },
+      {
+        "termo": "mandar brasa",
+        "significado": "ir com tudo",
+        "exemplo": "Vou mandar brasa nessa festa!"
+      },
+      {
+        "termo": "zona sul",
+        "significado": "região nobre do Rio",
+        "exemplo": "Vamos na zona sul hoje?"
+      },
+      {
+        "termo": "malandro",
+        "significado": "pessoa esperta",
+        "exemplo": "Esse malandro sabe se virar."
+      },
+      {
+        "termo": "otário",
+        "significado": "pessoa ingênua",
+        "exemplo": "Não seja otário, cara."
+      },
+      {
+        "termo": "barra pesada",
+        "significado": "situação difícil",
+        "exemplo": "A situação tá barra pesada."
+      },
+      {
+        "termo": "zoação",
+        "significado": "brincadeira, bagunça",
+        "exemplo": "Isso é só zoação."
+      },
+      {
+        "termo": "carioquinha",
+        "significado": "biscoito típico",
+        "exemplo": "Carioquinha de coco é gostoso."
+      },
+      {
+        "termo": "subúrbio",
+        "significado": "região popular do Rio",
+        "exemplo": "Subúrbio tem sua cultura."
+      },
+      {
+        "termo": "tijuca",
+        "significado": "bairro tradicional",
+        "exemplo": "Tijuca tem o Maracanã."
+      },
+      {
+        "termo": "ipanema",
+        "significado": "praia famosa mundialmente",
+        "exemplo": "Ipanema é cartão postal."
+      },
+      {
+        "termo": "copacabana",
+        "significado": "praia icônica",
+        "exemplo": "Copacabana é a princesinha do mar."
+      }
+    ]
+  },
+  "rn": {
+    "estado": "Rio Grande do Norte",
+    "girias": [
+      {
+        "termo": "oxente",
+        "significado": "expressão de surpresa",
+        "exemplo": "Oxente, que negócio é esse?"
+      },
+      {
+        "termo": "cabra",
+        "significado": "pessoa, cara",
+        "exemplo": "Esse cabra é gente boa."
+      },
+      {
+        "termo": "potiguar",
+        "significado": "pessoa do RN",
+        "exemplo": "Sou potiguar de coração!"
+      },
+      {
+        "termo": "forró",
+        "significado": "música típica",
+        "exemplo": "Vamos dançar forró pé de serra?"
+      },
+      {
+        "termo": "cajuína",
+        "significado": "bebida de caju",
+        "exemplo": "Cajuína geladinha é uma delícia."
+      },
+      {
+        "termo": "dunas",
+        "significado": "morros de areia",
+        "exemplo": "Vamos andar nas dunas de buggy?"
+      },
+      {
+        "termo": "natal",
+        "significado": "capital do estado",
+        "exemplo": "Natal tem as melhores praias."
+      },
+      {
+        "termo": "natalense",
+        "significado": "pessoa de Natal",
+        "exemplo": "Natalense recebe bem os turistas."
+      },
+      {
+        "termo": "mossoroense",
+        "significado": "pessoa de Mossoró",
+        "exemplo": "Mossoroense tem tradição cultural."
+      },
+      {
+        "termo": "carnaubeira",
+        "significado": "palmeira típica",
+        "exemplo": "A carnaubeira é árvore da vida."
+      },
+      {
+        "termo": "xique-xique",
+        "significado": "cacto do sertão",
+        "exemplo": "Xique-xique resiste à seca."
+      }
+    ]
+  },
+  "rs": {
+    "estado": "Rio Grande do Sul",
+    "girias": [
+      {
+        "termo": "tchê",
+        "significado": "cara, amigo",
+        "exemplo": "E aí, tchê, tudo beleza?"
+      },
+      {
+        "termo": "bah",
+        "significado": "expressão de surpresa",
+        "exemplo": "Bah, que legal isso!"
+      },
+      {
+        "termo": "tri",
+        "significado": "muito, super",
+        "exemplo": "Essa festa tá tri legal!"
+      },
+      {
+        "termo": "gaúcho",
+        "significado": "pessoa do RS",
+        "exemplo": "Todo gaúcho ama churrasco."
+      },
+      {
+        "termo": "chimarrão",
+        "significado": "erva-mate quente",
+        "exemplo": "Vamos tomar um chimarrão?"
+      },
+      {
+        "termo": "guri",
+        "significado": "menino",
+        "exemplo": "Esse guri é tri esperto."
+      },
+      {
+        "termo": "prenda",
+        "significado": "moça, garota",
+        "exemplo": "Que prenda linda!"
+      },
+      {
+        "termo": "churrasco",
+        "significado": "carne assada",
+        "exemplo": "Domingo tem churrasco na casa do tchê."
+      },
+      {
+        "termo": "gauchesco",
+        "significado": "típico do RS",
+        "exemplo": "Tradição gauchesca é sagrada."
+      },
+      {
+        "termo": "bagual",
+        "significado": "cavalo bravo",
+        "exemplo": "Esse bagual é difícil de domar."
+      },
+      {
+        "termo": "porto-alegrense",
+        "significado": "pessoa de Porto Alegre",
+        "exemplo": "Porto-alegrense ama o Beira-Rio."
+      },
+      {
+        "termo": "pelotense",
+        "significado": "pessoa de Pelotas",
+        "exemplo": "Pelotense faz o melhor doce."
+      },
+      {
+        "termo": "campanha",
+        "significado": "região da fronteira",
+        "exemplo": "A campanha tem tradição pecuária."
+      },
+      {
+        "termo": "CTG",
+        "significado": "Centro de Tradições Gaúchas",
+        "exemplo": "Vamos no CTG dançar vanera."
+      },
+      {
+        "termo": "vanera",
+        "significado": "dança típica gaúcha",
+        "exemplo": "Vanera é dança de salão gaúcha."
+      }
+    ]
+  },
+  "ro": {
+    "estado": "Rondônia",
+    "girias": [
+      {
+        "termo": "camarada",
+        "significado": "amigo, parceiro",
+        "exemplo": "Valeu, camarada!"
+      },
+      {
+        "termo": "trem",
+        "significado": "coisa, negócio",
+        "exemplo": "Que trem doido é esse?"
+      },
+      {
+        "termo": "rondoniense",
+        "significado": "pessoa de Rondônia",
+        "exemplo": "Sou rondoniense trabalhador."
+      },
+      {
+        "termo": "garimpo",
+        "significado": "mineração",
+        "exemplo": "Meu pai trabalhou no garimpo."
+      },
+      {
+        "termo": "pioneiro",
+        "significado": "primeiro morador",
+        "exemplo": "Família pioneira de Rondônia."
+      },
+      {
+        "termo": "seringueiro",
+        "significado": "extrator de látex",
+        "exemplo": "Vovô era seringueiro na floresta."
+      },
+      {
+        "termo": "madeireira",
+        "significado": "empresa de madeira",
+        "exemplo": "Trabalhou na madeireira anos."
+      },
+      {
+        "termo": "porto-velhense",
+        "significado": "pessoa de Porto Velho",
+        "exemplo": "Porto-velhense conhece o rio Madeira."
+      },
+      {
+        "termo": "desbravador",
+        "significado": "pessoa que abriu terras",
+        "exemplo": "Meu avô foi desbravador."
+      },
+      {
+        "termo": "castanha",
+        "significado": "fruto da castanheira",
+        "exemplo": "Castanha-do-pará é fonte de renda."
+      }
+    ]
+  },
+  "rr": {
+    "estado": "Roraima",
+    "girias": [
+      {
+        "termo": "meu",
+        "significado": "cara, mano",
+        "exemplo": "E aí, meu, beleza?"
+      },
+      {
+        "termo": "cabra",
+        "significado": "pessoa, cara",
+        "exemplo": "Esse cabra é esperto."
+      },
+      {
+        "termo": "roraimense",
+        "significado": "pessoa de Roraima",
+        "exemplo": "Roraimense é hospitaleiro."
+      },
+      {
+        "termo": "lavrado",
+        "significado": "região de campos",
+        "exemplo": "O lavrado tem vista linda."
+      },
+      {
+        "termo": "fronteira",
+        "significado": "divisa com outros países",
+        "exemplo": "Aqui é região de fronteira."
+      },
+      {
+        "termo": "tepui",
+        "significado": "montanha típica",
+        "exemplo": "Subimos no tepui mais alto."
+      },
+      {
+        "termo": "boa-vistense",
+        "significado": "pessoa de Boa Vista",
+        "exemplo": "Boa-vistense convive com várias culturas."
+      },
+      {
+        "termo": "venezuela",
+        "significado": "país vizinho",
+        "exemplo": "A fronteira com a Venezuela é próxima."
+      },
+      {
+        "termo": "savana",
+        "significado": "tipo de vegetação",
+        "exemplo": "A savana de Roraima é única."
+      }
+    ]
+  },
+  "sc": {
+    "estado": "Santa Catarina",
+    "girias": [
+      {
+        "termo": "guri",
+        "significado": "menino, garoto",
+        "exemplo": "Esse guri é muito esperto."
+      },
+      {
+        "termo": "tri",
+        "significado": "muito, super",
+        "exemplo": "Essa comida tá tri boa!"
+      },
+      {
+        "termo": "barbaridade",
+        "significado": "nossa, caramba",
+        "exemplo": "Barbaridade, que frio!"
+      },
+      {
+        "termo": "catarinense",
+        "significado": "pessoa de SC",
+        "exemplo": "Catarinense ama praia e montanha."
+      },
+      {
+        "termo": "barriga-verde",
+        "significado": "apelido do catarinense",
+        "exemplo": "Sou barriga-verde com orgulho!"
+      },
+      {
+        "termo": "colonização",
+        "significado": "herança européia",
+        "exemplo": "A colonização alemã marca a região."
+      },
+      {
+        "termo": "oktoberfest",
+        "significado": "festa alemã",
+        "exemplo": "A Oktoberfest de Blumenau é famosa."
+      },
+      {
+        "termo": "marejada",
+        "significado": "ressaca do mar",
+        "exemplo": "A marejada tá forte hoje."
+      },
+      {
+        "termo": "florianopolitano",
+        "significado": "pessoa de Florianópolis",
+        "exemplo": "Florianopolitano vive bem."
+      },
+      {
+        "termo": "blumenauense",
+        "significado": "pessoa de Blumenau",
+        "exemplo": "Blumenauense preserva a cultura alemã."
+      },
+      {
+        "termo": "joinvilense",
+        "significado": "pessoa de Joinville",
+        "exemplo": "Joinvilense é trabalhador."
+      },
+      {
+        "termo": "pomerode",
+        "significado": "cidade mais alemã do Brasil",
+        "exemplo": "Pomerode mantém tradições."
+      },
+      {
+        "termo": "farofa de banana",
+        "significado": "prato típico catarinense",
+        "exemplo": "Farofa de banana acompanha peixe."
+      }
+    ]
+  },
+  "sp": {
+    "estado": "São Paulo",
+    "girias": [
+      {
+        "termo": "mano",
+        "significado": "amigo, parceiro",
+        "exemplo": "E aí, mano, beleza?"
+      },
+      {
+        "termo": "bagulho",
+        "significado": "coisa, objeto",
+        "exemplo": "Pega aquele bagulho pra mim."
+      },
+      {
+        "termo": "trampo",
+        "significado": "trabalho, emprego",
+        "exemplo": "Hoje tenho trampo até tarde."
+      },
+      {
+        "termo": "mó",
+        "significado": "muito, mega",
+        "exemplo": "Esse filme é mó legal!"
+      },
+      {
+        "termo": "paulista",
+        "significado": "pessoa de SP",
+        "exemplo": "Todo paulista é corrido."
+      },
+      {
+        "termo": "rolê",
+        "significado": "passeio, programa",
+        "exemplo": "Vamos dar um rolê no centro?"
+      },
+      {
+        "termo": "quebrada",
+        "significado": "bairro, região",
+        "exemplo": "Lá na minha quebrada é diferente."
+      },
+      {
+        "termo": "sinistro",
+        "significado": "legal, maneiro",
+        "exemplo": "Essa festa tá sinistra!"
+      },
+      {
+        "termo": "paia",
+        "significado": "chato, ruim",
+        "exemplo": "Que paia esse trânsito."
+      },
+      {
+        "termo": "paulistano",
+        "significado": "pessoa da capital",
+        "exemplo": "Paulistano vive correndo."
+      },
+      {
+        "termo": "maloqueiro",
+        "significado": "pessoa da periferia",
+        "exemplo": "Maloqueiro de coração!"
+      },
+      {
+        "termo": "zé povinho",
+        "significado": "pessoa comum do povo",
+        "exemplo": "Sou zé povinho mesmo."
+      },
+      {
+        "termo": "corujão",
+        "significado": "programa noturno",
+        "exemplo": "Hoje tem corujão no cinema."
+      },
+      {
+        "termo": "embaçado",
+        "significado": "complicado, difícil",
+        "exemplo": "A situação tá embaçada."
+      },
+      {
+        "termo": "desenrolo",
+        "significado": "jeitinho, habilidade",
+        "exemplo": "Ele tem um bom desenrolo."
+      },
+      {
+        "termo": "coxinha",
+        "significado": "salgado típico paulista",
+        "exemplo": "Coxinha de frango é clássica."
+      },
+      {
+        "termo": "pastel",
+        "significado": "salgado frito tradicional",
+        "exemplo": "Pastel de feira com caldo de cana."
+      },
+      {
+        "termo": "farofa",
+        "significado": "acompanhamento típico",
+        "exemplo": "Farofa completa o churrasco."
+      },
+      {
+        "termo": "metrô",
+        "significado": "transporte público",
+        "exemplo": "Vou de metrô pro centro."
+      },
+      {
+        "termo": "CPTM",
+        "significado": "trem metropolitano",
+        "exemplo": "CPTM liga a grande SP."
+      }
+    ]
+  },
+  "se": {
+    "estado": "Sergipe",
+    "girias": [
+      {
+        "termo": "oxente",
+        "significado": "expressão de surpresa",
+        "exemplo": "Oxente, que coisa doida!"
+      },
+      {
+        "termo": "massa",
+        "significado": "legal, bacana",
+        "exemplo": "Essa música é massa!"
+      },
+      {
+        "termo": "sergipano",
+        "significado": "pessoa de Sergipe",
+        "exemplo": "Sergipano é gente boa."
+      },
+      {
+        "termo": "forró",
+        "significado": "música típica",
+        "exemplo": "Forró de Sergipe é especial."
+      },
+      {
+        "termo": "aracaju",
+        "significado": "capital do estado",
+        "exemplo": "Aracaju tem praias lindas."
+      },
+      {
+        "termo": "carangueijo",
+        "significado": "crustáceo típico",
+        "exemplo": "Vamos comer caranguejo?"
+      },
+      {
+        "termo": "aracajuano",
+        "significado": "pessoa de Aracaju",
+        "exemplo": "Aracajuano ama as praias."
+      },
+      {
+        "termo": "estanciano",
+        "significado": "pessoa de Estância",
+        "exemplo": "Estanciano preserva tradições."
+      },
+      {
+        "termo": "lagarto",
+        "significado": "cidade histórica",
+        "exemplo": "Lagarto tem artesanato famoso."
+      },
+      {
+        "termo": "nossa senhora",
+        "significado": "expressão religiosa comum",
+        "exemplo": "Nossa Senhora, que calor!"
+      }
+    ]
+  },
+  "to": {
+    "estado": "Tocantins",
+    "girias": [
+      {
+        "termo": "sô",
+        "significado": "cara, mano",
+        "exemplo": "Ô sô, vem cá!"
+      },
+      {
+        "termo": "trem",
+        "significado": "coisa, negócio",
+        "exemplo": "Que trem é esse?"
+      },
+      {
+        "termo": "tocantinense",
+        "significado": "pessoa do Tocantins",
+        "exemplo": "Tocantinense é hospitaleiro."
+      },
+      {
+        "termo": "cerrado",
+        "significado": "vegetação típica",
+        "exemplo": "O cerrado tem frutos nativos."
+      },
+      {
+        "termo": "palmas",
+        "significado": "capital do estado",
+        "exemplo": "Palmas é cidade planejada."
+      },
+      {
+        "termo": "jalapão",
+        "significado": "região turística",
+        "exemplo": "O Jalapão é um paraíso."
+      },
+      {
+        "termo": "capim-dourado",
+        "significado": "planta típica",
+        "exemplo": "Artesanato de capim-dourado é lindo."
+      },
+      {
+        "termo": "palmense",
+        "significado": "pessoa de Palmas",
+        "exemplo": "Palmense vive bem na capital."
+      },
+      {
+        "termo": "araguaína",
+        "significado": "cidade importante do norte",
+        "exemplo": "Araguaína é centro econômico."
+      },
+      {
+        "termo": "buriti",
+        "significado": "palmeira do cerrado",
+        "exemplo": "O buriti dá fruto saboroso."
+      },
+      {
+        "termo": "pequi",
+        "significado": "fruto típico do cerrado",
+        "exemplo": "Pequi tem sabor marcante."
+      }
+    ]
+  }
+} 
